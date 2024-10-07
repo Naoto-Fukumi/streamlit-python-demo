@@ -71,8 +71,8 @@ def get_content(url):
         return None
 
 
-def build_prompt(content, n_chars=300):
-    return f"""以下はとある。Webページのコンテンツである。内容を{n_chars}程度でわかりやすく要約してください。
+def build_prompt(content, n_chars=100):
+    return f"""以下はとある。Webページのコンテンツである。内容を{n_chars}程度で小学生でも分かるように要約してください。
 
 ========
 

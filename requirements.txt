@@ -2,6 +2,7 @@ streamlit
 langchain
 langchain-community
 openai
+streamlit_chat
 # python-dotenv
 # youtube-transcript-api
 # pytube

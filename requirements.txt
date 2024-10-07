@@ -3,6 +3,7 @@ langchain
 langchain-community
 openai
 streamlit_chat
+bs4
 # python-dotenv
 # youtube-transcript-api
 # pytube

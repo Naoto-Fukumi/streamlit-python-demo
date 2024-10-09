@@ -4,7 +4,10 @@ langchain-community
 openai
 streamlit_chat
 bs4
-# python-dotenv
+PyPDF2
 youtube-transcript-api
 pytube
 tiktoken
+qdrant_client
+langchain-openai
+langchain-qdrant
